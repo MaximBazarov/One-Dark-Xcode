@@ -5,8 +5,9 @@ Popular theme in two variations with Monaco and SF font
 ## Setup
 ```sh
 git clone git@github.com:MaximBazarov/One-Dark-Xcode.git
-cp themes/* Dark.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+cp One-Dark-Xcode/themes/* ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 rm -rf One-Dark-Xcode/
+
 ```
 
 then choose `One Dark` or `One Dark SF` color theme in your Xcode

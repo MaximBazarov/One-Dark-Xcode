@@ -4,7 +4,7 @@ Popular theme in two variations light and dark
 
 ## Setup
 ```sh
-git clone git@github.com:MaximBazarov/One-Dark-Xcode.git
+git clone https://github.com/MaximBazarov/One-Dark-Xcode.git
 cp One-Dark-Xcode/themes/* ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 rm -rf One-Dark-Xcode/
 

@@ -8,6 +8,7 @@ git clone https://github.com/MaximBazarov/One-Dark-Xcode.git
 cp One-Dark-Xcode/themes/* ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 rm -rf One-Dark-Xcode/
 
+
 ```
 
 then choose `One Dark SF` or `One Light SF` color theme in your Xcode

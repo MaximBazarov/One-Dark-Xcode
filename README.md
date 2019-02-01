@@ -8,15 +8,19 @@ mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 git clone https://github.com/MaximBazarov/One-Dark-Xcode.git
 cp One-Dark-Xcode/themes/* ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
 rm -rf One-Dark-Xcode/
-
-
 ```
 
-then choose `One Dark SF` or `One Light SF` color theme in your Xcode
+then choose `One Dark Original` `One Dark SF` or `One Light SF` color theme in your Xcode
+
+### One Dark Original
+
+![Code Screenshot](ss/orig_dark.png)
 
 
 ### One Dark SF
-![Code Screenshot](https://github.com/MaximBazarov/One-Dark-Xcode/blob/master/ss/sf_dark.png)
+
+![Code Screenshot](ss/sf_dark.png)
 
 ### One Light SF
-![Code Screenshot](https://github.com/MaximBazarov/One-Dark-Xcode/blob/master/ss/sf_light.png)
+
+![Code Screenshot](ss/sf_light.png)

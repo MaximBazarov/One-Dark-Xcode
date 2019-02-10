@@ -16,6 +16,6 @@ then choose `One Dark Original` `One Dark Original` color theme in your Xcode
 
 ![Code Screenshot](ss/dark.png)
 
-### One Dark Original
+### One Light Original
 
 ![Code Screenshot](ss/light.png)

@@ -10,17 +10,12 @@ cp One-Dark-Xcode/themes/* ~/Library/Developer/Xcode/UserData/FontAndColorThemes
 rm -rf One-Dark-Xcode/
 ```
 
-then choose `One Dark Original` `One Dark SF` or `One Light SF` color theme in your Xcode
+then choose `One Dark Original` `One Dark Original` color theme in your Xcode
 
 ### One Dark Original
 
-![Code Screenshot](ss/orig_dark.png)
+![Code Screenshot](ss/dark.png)
 
+### One Dark Original
 
-### One Dark SF
-
-![Code Screenshot](ss/sf_dark.png)
-
-### One Light SF
-
-![Code Screenshot](ss/sf_light.png)
+![Code Screenshot](ss/light.png)
